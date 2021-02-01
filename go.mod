@@ -1,3 +1,3 @@
-module github.com/jorgeperezc/myModuleTest
+module github.com/jorgeperezc/myModuleTest/v2
 
 go 1.13
