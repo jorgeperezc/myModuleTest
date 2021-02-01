@@ -1,4 +1,4 @@
-package myModuleTest
+package github.com/jorgeperezc/myModuleTest
 
 import (
    "fmt"
