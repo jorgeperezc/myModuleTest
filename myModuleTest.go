@@ -1,9 +1,9 @@
 package myModuleTest
 
 import (
-   "fmt"
+	"fmt"
 )
 
 func Version() {
-    fmt.Println("Version 1.0.0")
+	fmt.Println("Version 1.1.0")
 }
